@@ -15,3 +15,5 @@ B站演示视频：
 https://www.bilibili.com/video/BV1ZUb5eqEGL/
 
 备注: Mac操作系统由于安全限制，默认不允许运行非AppStore应用，需要“系统设置”里“隐私与安全性”一项更改为“任何来源”，才能执行程序。Windows版本不存在此问题。
+
+![图片](https://github.com/user-attachments/assets/5279b2b4-d13c-4bc5-a2a3-38e1f354f0a0)
